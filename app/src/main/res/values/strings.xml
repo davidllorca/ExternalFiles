@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">External Files</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="filename">File\'s name</string>
+    <string name="action_settings">Settings</string>
+</resources>
